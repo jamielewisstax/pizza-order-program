@@ -1,4 +1,4 @@
-# pizza-order-program
+# Pizza order program
 
 Order a pizza! How about one with pepperoni and extra cheese?
 
